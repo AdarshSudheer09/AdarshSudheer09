@@ -13,7 +13,7 @@ I'm a sophomore at Cupertino High School interested in **machine learning** and 
 
 ### [Carom Referee](https://github.com/AdarshSudheer09/carom-referee)
 **YOLOv12-based ML model to referee a carom game from live video feed.**  
-- Tracks scores for the white and black teams and displays them on screen.
+- Tracks scores for two teams and displays them on screen.
 
 ## Contact
 
