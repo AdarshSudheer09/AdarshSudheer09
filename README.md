@@ -16,17 +16,17 @@ I'm a junior at Cupertino High School focusing on **multimodal AI**, **adversari
 
 ## 🚀 Featured Research & Projects
 
-### [Multimodal LLM Alignment Research](https://github.com/AdarshSudheer09/AVHBench-dmai)
-**Research under Principal Investigator Ruizhe Li.**
-- We study audio-visual conflict as a compositional generalization test for AV-LLMs.
-- Identified prior dominance, a failure mode where a model exhibits late-layer commitment to an internally preferred answer pattern that is weakly grounded in conflicting inputs.
-- Detailed our mechanistic audit and behavioral evaluations in the paper [CompLearn_Final_Submission.pdf](./CompLearn_Final_Submission.pdf).
-
 ### Grounded Lagrangian Adversarial Diffusion Editing (Adv-TGD)
 **Research with Professor Nima Karimian (USF).**
 - Developed an optimized, visually grounded adversarial generation framework designed to produce high-fidelity impersonations.
 - Reformulated the adversarial attack as a principled constrained optimization problem solved via Lagrangian dual ascent.
 - Co-authored the paper [GLADE.pdf](./GLADE.pdf) to present this framework and the Salience-Guided Semantic Mask pipeline.
+
+### [Multimodal LLM Alignment Research](https://github.com/AdarshSudheer09/AVHBench-dmai)
+**Research under Principal Investigator Ruizhe Li.**
+- We study audio-visual conflict as a compositional generalization test for AV-LLMs.
+- Identified prior dominance, a failure mode where a model exhibits late-layer commitment to an internally preferred answer pattern that is weakly grounded in conflicting inputs.
+- Detailed our mechanistic audit and behavioral evaluations in the paper [CompLearn_Final_Submission.pdf](./CompLearn_Final_Submission.pdf).
 
 ### [Carom Referee](https://github.com/AdarshSudheer09/carom-referee)
 **YOLOv12-based ML model to referee a carom game from a live video feed.**
