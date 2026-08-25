@@ -10,7 +10,7 @@
 
 I'm a junior at Cupertino High School focusing on **multimodal AI**, **adversarial machine learning**, and **systems architecture**. 
 
-- 🔭 **Currently working on:** Adv-TGD latent face diffusion research with Professor Karimian from USF, as detailed in the paper [GLADE.pdf](./GLADE.pdf). I have also done multimodal AI research under Ruizhe Li, exploring compositional failures in audio-visual LLMs as outlined in [CompLearn_Final_Submission.pdf](./CompLearn_Final_Submission.pdf).
+- 🔭 **Currently working on:** Adv-TGD latent face diffusion research with Professor Karimian from USF, as detailed in the paper [GLADE.pdf](./GLADE.pdf). 
 - 🌱 **Currently exploring:** Deep structural perturbations for facial recognition and late-layer prior dominance in LLMs.
 - ⚡ **Fun fact:** When I'm not coding, I love hiking and working out!
 
